@@ -1,0 +1,63 @@
+For example, we searched for the string “diabet,” which would capture both “diabetes” and “diabetic.” Nevertheless, it is possible that some conditions in the 2 code sets might not have been captured despite our attempts at careful mapping.
+
+Risk factors tracked by the COVID-19 Open Research Dataset.
+
+Risk factors
+
+Age
+
+Endocrine diseases
+
+Asthma
+
+Ethnicity: Hispanic versus non-Hispanic
+
+Autoimmune disorders
+
+Heart disease
+
+Chronic obstructive pulmonary disease
+
+Heart failure
+
+Cancer
+
+Hypertension
+
+Cardiovascular and cerebrovascular disease
+
+Immune system disorders
+
+Cerebrovascular disease
+
+Male gender
+
+Chronic digestive disorders
+
+Neurological disorders
+
+Chronic kidney disease
+
+Overweight or obese
+
+Chronic liver disease
+
+Race: Asian versus White
+
+Chronic respiratory diseases
+
+Race: Black versus White
+
+Dementia
+
+Race: Other versus White
+
+Diabetes
+
+Respiratory system diseases
+
+Drinking
+
+Smoking status
+
+Visually in the Navigator, the information from CORD-19 regarding studies related to

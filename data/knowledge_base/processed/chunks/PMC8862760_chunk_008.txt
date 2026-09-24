@@ -1,0 +1,7 @@
+ds on the framework developed by the SMART Cancer Navigator, which offers clinical decision support by connecting patient EHR information to cancerous gene variants. The Navigator is a further step for creating Fast Healthcare Interoperability Resources (FHIR) protocol–based tools to support personalized medicine. This web-based application was built by researchers at the Biomedical Cybernetics Laboratory in Harvard Medical School. It was created using an Angular and Bootstrap front-end framework. The code is available at.
+
+Methods
+
+Accessing Multiple FHIR Servers
+
+The SMART COVID Navigator allows the user to log into 2 EHRs: the Veterans Affairs (VA) and the Center for Medicare and Medicaid Services (CMS). There are significant advantages to the application being able to log into multiple EHR servers. Doctors viewing their patient’s medical information through the application have the ability to discern any discrepancies between the data sources. Similarly, doctors and patients can be

@@ -1,0 +1,23 @@
+and fatality: A systematic review
+
+Clinical decision support tool and rapid point-of-care platform for determining disease severity in patients with COVID-19
+
+Development of a clinical decision support system for severity risk prediction and triage of COVID-19 patients at hospital admission: an international multicentre study
+
+SMART Cancer Navigator: A Framework for Implementing ASCO Workshop Recommendations to Enable Precision Cancer Medicine
+
+A Review of Precision Oncology Knowledgebases for Determining the Clinical Actionability of Genetic Variants
+
+Personalized medicine: challenges and opportunities for translational bioinformatics
+
+COVID application
+
+Distributed learning from multiple EHR databases: Contextual embedding models for medical events
+
+FHIR Genomics: enabling standardization for precision medicine use cases
+
+Artificial Intelligence-Powered Search Tools and Resources in the Fight Against COVID-19
+
+CORD-19: The COVID-19 Open Research Dataset
+
+COVID-19 open research datas

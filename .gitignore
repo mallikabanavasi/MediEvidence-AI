@@ -4,3 +4,10 @@ __pycache__/
 .env
 .env.*
 .vscode/
+
+# Generated medical knowledge data
+data/knowledge_base/qdrant/
+data/knowledge_base/processed/embeddings/
+
+# Patient medical reports
+data/reports/

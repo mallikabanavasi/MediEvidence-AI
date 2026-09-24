@@ -1,0 +1,5 @@
+discussed before, we display the severity and fatality percentage summary statistics in the application for each condition so that clinicians can obtain a quick overview of the significance of that condition without having to review each study in detail. However, we caution that clinicians might want to review the studies in greater detail depending on the medical condition of the concerned patient.
+
+Reboot: COVID-Cancer Project Knowledge Base Analysis
+
+In addition to the CORD-19 analysis, we conducted an analysis based on the papers in the Reboot: COVID-Cancer Project data set relating to patient outcomes. This data set stores the number of patients with a specific type of cancer and with COVID-19, the number of those patients who died, and the percentage fatality found. The Navigator aggregates these data to offer the user summary statistics for each of the tissue types. Table 3 documents the aggregate patient outcomes for each cancerous tissue, compiled by adding the number of patie

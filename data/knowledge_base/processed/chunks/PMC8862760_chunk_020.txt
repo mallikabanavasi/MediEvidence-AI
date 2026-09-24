@@ -1,0 +1,15 @@
+versus White
+
+Dementia
+
+Race: Other versus White
+
+Diabetes
+
+Respiratory system diseases
+
+Drinking
+
+Smoking status
+
+Visually in the Navigator, the information from CORD-19 regarding studies related to COVID-19 risk factors appears as a menu of conditions (Figure 4). When the user clicks a particular condition, a pop-up screen is displayed, providing all the information collected about studies relevant to that condition (Figure 5). This will allow a user to view the studies and use the findings for clinical decision support. The study name (with a hyperlink to the full study), date, and the significance of the severity and fatality statistics are shown for each study. At the top of the pop-up, an overview of the studies associated with the chosen condition is displayed. The information included are the total number of studies for that condition, the percentage of studies that found the selected condition to cause a significant change in the severity of COVID-19 progression (out of the st

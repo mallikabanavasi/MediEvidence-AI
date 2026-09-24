@@ -1,0 +1,9 @@
+an see how a patient’s medical history will affect their COVID-19 outcomes.
+
+Results
+
+The SMART COVID Navigator aggregates patient health information from multiple Fast Healthcare Interoperability Resources–enabled electronic health record systems. This allows physicians to see a comprehensive view of patient health records. The application accesses 2 data sets of over 1100 research studies to provide information on the fatality and severity of COVID-19 for several pre-existing conditions. We also analyzed the results of the collected studies to determine which medical conditions result in an increased chance of severity and fatality of COVID-19 progression. We found that certain conditions result in a higher likelihood of severity and fatality probabilities. We also analyze various cancer tissues and find that the probabilities for fatality vary greatly depending on the tissue being examined.
+
+Conclusions
+
+The SMART COVID Navigator allows physicians to predict the fatality and severit

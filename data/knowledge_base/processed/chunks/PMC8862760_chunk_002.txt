@@ -1,0 +1,9 @@
+tool, the SMART COVID Navigator, a web application to assist clinicians in treating patients with COVID-19. Our application allows clinicians to access a patient’s electronic health records and identify disease interactions from a large set of observational research studies that affect the severity and fatality due to COVID-19.
+
+Methods
+
+The SMART COVID Navigator takes a 2-pronged approach to clinical decision support. The first part is a connection to electronic health record servers, allowing the application to access a patient’s medical conditions. The second is accessing data sets with information from various observational studies to determine the latest research findings about COVID-19 outcomes for patients with certain medical conditions. By connecting these 2 data sources, users can see how a patient’s medical history will affect their COVID-19 outcomes.
+
+Results
+
+The SMART COVID Navigator aggregates patient health information from multiple Fast Healthcare Interoperability Res

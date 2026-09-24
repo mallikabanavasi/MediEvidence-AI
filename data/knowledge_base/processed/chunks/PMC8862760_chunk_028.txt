@@ -1,0 +1,25 @@
+d (1,2)
+
+Thoracic (1)
+
+Genitourinary (1)
+
+Not specified (1,2)
+
+Thymus (1,2)
+
+Gynecological (1)
+
+Ovary/fallopian tube (1,2)
+
+Thyroid (2)
+
+Standard view of the COVID-19 cancer tab of the COVID Navigator. The “Summary” button is highlighted in blue to distinguish it from the other buttons that represent tissue types.
+
+When a tissue is clicked, a pop-up appears with 2 tabs (this figure shows the pop-up for lung tissue). The first tab (on the left) tracks patient outcomes for patients with lung cancer who contract COVID-19. The second tab (on the right) tracks drugs being tested for COVID-19 that could have an impact on cancer of the selected tissue.
+
+When the blue “Summary” button is clicked, this pop-up appears, which displays the patient outcome summary statistics for each tissue type in a concise manner.
+
+Data Governance
+
+There are 2 sources of data used in the application. The first is patient data from the VA and CMS, which are accessed when a patient logs into their accounts in these

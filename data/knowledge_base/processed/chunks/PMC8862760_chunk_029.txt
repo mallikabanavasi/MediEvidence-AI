@@ -1,0 +1,9 @@
+oncise manner.
+
+Data Governance
+
+There are 2 sources of data used in the application. The first is patient data from the VA and CMS, which are accessed when a patient logs into their accounts in these EHRs. The SMART COVID Navigator does not store any patient data. These data are accessed by the patient or physician under authorization by the patient. These data are used to identify patient risk factors when the physicians/patients are using the application. When they are done using the application and log out, the patient data are deleted from the local machine, which is being used to access the app. At no point is patient data stored in the main server running the application. The second source of data is from the publicly available CORD-19 and Reboot: COVID-Cancer Project data sets for use in the application. Given these are publicly available repositories of research papers, we do not implement any specific data governance with respect to this information.
+
+Results
+
+Knowledge Base

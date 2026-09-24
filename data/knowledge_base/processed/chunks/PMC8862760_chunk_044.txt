@@ -1,0 +1,5 @@
+ased web interface, considering that physicians often perform literature reviews on smartphones. Although the application currently links to the VA and CMS, some clinicians felt that the application would benefit from being linked to other EHRs such as Epic. In fact, the same type of user interface and back-end API (SMART-on-FHIR) can be leveraged and is supported by these as well. Another suggestion was to link the application to a patient’s COVID-19 vaccination records to further improve the physician’s ability to treat the patient.
+
+Additional Comments and Extensions
+
+SMART COVID Navigator was created in response to a growing need for precision medicine tools to assist doctors dealing with COVID-19–infected patients with risk factors shown to affect COVID-19 progression. The Navigator achieves this by connecting patient medical information—in the form of EHRs—with data sets giving comprehensive information about patient outcomes. We show in this paper how to create a clinical decisi

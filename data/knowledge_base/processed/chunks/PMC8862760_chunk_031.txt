@@ -1,0 +1,5 @@
+t: COVID-Cancer Project data sets, we explored the likelihood of mortality for a particular cancer type based on the aggregate data collected from the data sets.
+
+CORD-19 Knowledge Base Analysis
+
+First, we discuss the results from the CORD-19 knowledge base relating to risk factors. We found that out of the 816 studies examined in the risk factors section, 355 studies (43.5%) studied only how a particular disease condition affected the severity of COVID-19 progression, 328 studies (40.2%) examined only how the disease condition affected fatality, 89 studies (10.9%) examined both severity and fatality, and 44 studies (5.4%) had no entry for severity nor fatality. We examined each of the 28 individual risk conditions to identify which of them have been found more frequently to be a significant factor in COVID-19 severity and fatality rates. These data are displayed in Tables 1 and 2. Table 1 presents the data for each condition regarding severity, and Table 2 presents the data regarding

@@ -1,0 +1,5 @@
+nt factor in COVID-19 severity and fatality rates. These data are displayed in Tables 1 and 2. Table 1 presents the data for each condition regarding severity, and Table 2 presents the data regarding fatality.
+
+Severity statistics for all risk factors.
+
+Risk factor	Total papers (N)	Studies on COVID-19 severity (n)	Studies showing significant severity, n (%)a	 	Age	33	15	10 (67)	 	Asthma	6	3	0 (0)	 	Autoimmune disorders	3	1	0 (0)	 	Cancer	26	16	8 (50)	 	Cardiovascular and cerebrovascular disease	10	7	4 (57)	 	Cerebrovascular disease	20	8	6 (75)	 	Chronic digestive disorders	5	2	0 (0)	 	Chronic kidney disease	38	19	10 (53)	 	Chronic liver disease	12	6	1 (17)	 	Chronic respiratory diseases	29	12	6 (50)	 	Chronic obstructive pulmonary disease	41	23	18 (78)	 	Dementia	5	2	1 (50)	 	Diabetes	100	57	33 (58)	 	Drinking	1	1	0 (0)	 	Endocrine diseases	4	4	2 (50)	 	Ethnicity: Hispanic versus non-Hispanic	15	6	0 (0)	 	Heart disease	98	54	42 (78)	 	Heart failure	17	3	1 (33)	 	Hypertension	100	60	35

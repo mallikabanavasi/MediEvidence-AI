@@ -1,0 +1,5 @@
+to the clinician. For instance, more sophisticated weighting of the results in different papers could be implemented. Another extension would be to provide treatment information through the Navigator platform depending upon the patient’s health profile. In addition, advancements in artificial intelligence and machine learning technologies could play an important role in the improvement of the Navigator platform, as well as precision medicine as a whole, by offering predictions about disease progression based on past patient health information, thereby tailoring treatment for the individual and allowing for increased efficiency in treatment. This could take the form of creating patient risk scores generated based on data from EHRs.
+
+Conclusion
+
+Precision medicine has long been hailed as the next step in advancing patient care, with institutions such as the White House creating initiatives to further precision medicine technology advancement. The SMART COVID Navigator is a clinical decis

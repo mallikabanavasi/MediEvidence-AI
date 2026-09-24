@@ -1,0 +1,9 @@
+cs for all tissue types.
+
+Tissue type with cancer	Patients (n)	Deaths due to COVID-19 (% fatality), n (%)	 	Bladder/urinary tract	1	0 (0)	 	Bone and soft tissue	9	3 (33)	 	Bowel	5	0 (0)	 	Brain/central nervous system	2	0 (0)	 	Breast	91	5 (6)	 	Cervix	1	0 (0)	 	Genitourinary	4	0 (0)	 	Gynecological	180	20 (11)	 	Head and neck	8	0 (0)	 	Hematologic not specified	1893	492 (26)	 	Kidney	18	2 (11)	 	Liver	5	1 (20)	 	Lung	225	67 (30)	 	Lymphoid	504	152 (30)	 	Myeloid	29	5 (17)	 	Not specified	13265	2632 (20)	 	Ovary/fallopian tube	2	0 (0)	 	Pleura	1	0(0)	 	Prostate	124	28 (23)	 	Skin	3	0 (0)	 	Thoracic	200	66 (33)	 	Thymus	1	0 (0)
+
+Discussion
+
+Views From Clinician Users
+
+We surveyed clinicians who tested the SMART COVID Navigator to elicit their assessment. Their feedback highlighted the following uses of the application in patient care and as an educational resource. The clinicians noted that the application allows for a real-time assessment of comorbidities that any given patient may have

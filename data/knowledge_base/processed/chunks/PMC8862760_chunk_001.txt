@@ -1,0 +1,16 @@
+Title: SMART COVID Navigator, a Clinical Decision Support Tool for COVID-19 Treatment
+Source: PubMed Central
+PMCID: PMC8862760
+License: CC BY 4.0
+
+------------------------------------------------------------
+
+SMART COVID Navigator, a Clinical Decision Support Tool for COVID-19 Treatment: Design and Development Study
+
+Background
+
+COVID-19 caused by SARS-CoV-2 has infected 219 million individuals at the time of writing of this paper. A large volume of research findings from observational studies about disease interactions with COVID-19 is being produced almost daily, making it difficult for physicians to keep track of the latest information on COVID-19’s effect on patients with certain pre-existing conditions.
+
+Objective
+
+In this paper, we describe the creation of a clinical decision support tool, the SMART COVID Navigator, a web application to assist clinicians in treating patients with COVID-19. Our application allows clinicians to access a patient’s electronic health records and ident

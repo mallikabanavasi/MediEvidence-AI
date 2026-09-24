@@ -1,0 +1,5 @@
+s to the first EHR. This 2-step process ensures better security of sensitive medical data. From the EHRs, the following information is retrieved: (1) the patient’s name, (2) their location zip code, (3) their date of birth (which is used to calculate their age), and (4) a list of medical conditions associated with the patient along with a numerical code presenting the condition (step 3 in Figure 1).
+
+Architecture diagram of the SMART COVID Navigator. API: application programming interface; CMS: Center for Medicare and Medicaid Services; CORD-19: COVID-19 Open Research Dataset; ICD-10: International Classification of Diseases-tenth version; SNOMED-CT: SNOMED Clinical Terms; VA: Veterans Affairs.
+
+The EHR server results are visually displayed at the top of the screen. This menu appears when a user logs into either one of the servers. It displays demographic information such as the patient’s name, age, and current zip code. It also shows a list of medical conditions retrieved from the pat

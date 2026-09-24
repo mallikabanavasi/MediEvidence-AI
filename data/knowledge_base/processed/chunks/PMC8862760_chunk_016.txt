@@ -1,0 +1,5 @@
+fection (step 1 in Figure 3).
+
+Architecture diagram of the interactions between the Veterans Affairs and Center for Medicare and Medicaid Services electronic health record systems, SNOMED/International Classification of Diseases-tenth version codes, and the COVID-19 Open Research Dataset. CMS: Center for Medicare and Medicaid Services; CORD-19: COVID-19 Open Research Dataset; ICD-10: International Classification of Diseases-tenth version; SNOMED-CT: SNOMED Clinical Terms; VA: Veterans Affairs.
+
+The CORD-19 data are publicly available and are stored in CSV files. Each file tracks studies relating to a specific condition (eg, hypertension, heart disease) that is being tracked. Each row in the CSV file represents a study. The study name, link, date, and significance of the severity and fatality of the patients are all provided. Textbox 1 provides a list of the risk factors provided in CORD-19. As shown in Textbox 1, the CORD-19 data set consists of 28 risk factors—22 of which are disease

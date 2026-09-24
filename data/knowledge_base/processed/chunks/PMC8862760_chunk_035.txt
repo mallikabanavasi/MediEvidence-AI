@@ -1,0 +1,7 @@
+erweight or obese	43	20	12 (60)	 	Race: Asian versus White	5	4	3 (75)	 	Race: Black versus White	21	17	7 (41)	 	Race: Other versus White	9	9	3 (33)	 	Respiratory system diseases	7	2	2 (100)	 	Smoking status	56	26	5 (19)
+
+aThe proportion of studies showing significant fatality was calculated from the number of studies showing fatality of COVID-19 in people with the particular risk factor.
+
+bN/A: not applicable.
+
+Table 1 documents severity statistics; specifically, the number and proportion of studies that find if a given condition results in a statistically significant change in the likelihood of a patient having a severe COVID-19 infection. For example, out of the 98 studies on heart disease, 54 of them study severity and 42 (78%) found a significant result for severity. However, chronic liver disease seems to not have a significant impact on COVID-19 severity, as out of the 12 papers that study this condition, 6 study severity and only 1 study (17%) found a significant correlation. Th

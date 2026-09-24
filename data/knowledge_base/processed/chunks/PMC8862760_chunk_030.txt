@@ -1,0 +1,11 @@
+use in the application. Given these are publicly available repositories of research papers, we do not implement any specific data governance with respect to this information.
+
+Results
+
+Knowledge Base Analysis
+
+In addition to the development of the SMART COVID Navigator, we performed analyses on the research studies in the CORD-19 and the Reboot: COVID-Cancer Project knowledge bases. Given the large number of studies both in the CORD-19 knowledge base and the COVID-Cancer data sets, it would be difficult for a clinician to quickly assess if a particular patient’s disease condition or cancer type interacts significantly with COVID-19. For the CORD-19 knowledge base, we explored whether on average, the studies found significant results for each of the 28 conditions examined, and for the Reboot: COVID-Cancer Project data sets, we explored the likelihood of mortality for a particular cancer type based on the aggregate data collected from the data sets.
+
+CORD-19 Knowledge Base Analysis
+
+Firs

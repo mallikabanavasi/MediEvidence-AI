@@ -1,0 +1,67 @@
+to how we used the CORD-19 data set. The display of data set 2 is for a different purpose—to inform physicians treating cancer that how drugs that are being used for COVID-19 treatment have an application in cancer treatment.
+
+Tissue types tracked by the Reboot: COVID-Cancer Project data sets. The numbers in parentheses indicate which data sets the tissue type is in.
+
+Tissue types
+
+Bladder/unitary tract (1,2)
+
+Head and neck (1,2)
+
+Pancreas (2)
+
+Bone and soft tissue (1)
+
+Hematologic not specified (1)
+
+Pleura (1)
+
+Bowel (1,2)
+
+Kidney (1,2)
+
+Prostate (1,2)
+
+Bowel, esophagus/stomach (2)
+
+Liver (1,2)
+
+Sarcoma (2)
+
+Brain/central nervous system (1,2)
+
+Lung (1,2)
+
+Skin (1,2)
+
+Breast (1,2)
+
+Lymphoid (1,2)
+
+Soft tissue (2)
+
+Cervix (1)
+
+Lymphoid, myeloid (2)
+
+Testis (2)
+
+Esophagus/stomach (2)
+
+Myeloid (1,2)
+
+Thoracic (1)
+
+Genitourinary (1)
+
+Not specified (1,2)
+
+Thymus (1,2)
+
+Gynecological (1)
+
+Ovary/fallopian tube (1,2)
+
+Thyroid (2)
+
+Standard view of the COVID-19 cancer tab of the COVID Navigator

@@ -1,0 +1,7 @@
+tients’ health conditions.
+
+A view of the application logged into a test Veterans Affairs profile. A button appears for each condition that is being tracked. Based on the conditions in the patient’s profile, certain risk factors on the screen are highlighted in orange.
+
+Presentation of information from the COVID-19 Open Research Dataset relating to a particular risk factor (in this case, the example is for the “age” risk factor).
+
+The patient’s biographical and health information retrieved from the EHRs can be used to better guide clinicians on the health conditions they should be concerned about in relation to COVID-19. The Navigator uses the previously described mappings from SNOMED Clinical Terms and ICD-10 identifiers to the CORD-19 risk factors; wherever there is a match between the code in a patient’s EHR condition list (step 3 of Figure 3) and those associated with each CORD-19 risk factor, the condition highlights orange (step 4 of Figure 3), thereby alerting the user to presen

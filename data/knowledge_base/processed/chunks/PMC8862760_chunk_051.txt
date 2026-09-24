@@ -1,0 +1,45 @@
+for Westat, Roche, and Flatiron Health. JW has ownership of HemOnc.org LLC, outside the submitted work.
+
+Abbreviations
+
+API
+
+application programming interface
+
+CMS
+
+Center for Medicare and Medicaid Services
+
+CORD-19
+
+COVID-19 Open Research Dataset
+
+EHR
+
+electronic health record
+
+FHIR
+
+Fast Healthcare Interoperability Resources
+
+ICD-10
+
+International Classification of Diseases-tenth version
+
+VA
+
+Veterans Affairs
+
+What is precision medicine?
+
+What is an electronic health record (EHR)?
+
+Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia
+
+How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes
+
+Association of hypertension, diabetes, stroke, cancer, kidney disease, and high-cholesterol with COVID-19 disease severity and fatality: A systematic review
+
+Clinical decision support tool and rapid point-of-care platform for determining disease severity in patients with COVID-19
+
+Development of a clinical decision suppo

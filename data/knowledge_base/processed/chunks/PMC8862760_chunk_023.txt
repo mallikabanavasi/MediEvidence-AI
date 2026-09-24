@@ -1,0 +1,5 @@
+ode in a patient’s EHR condition list (step 3 of Figure 3) and those associated with each CORD-19 risk factor, the condition highlights orange (step 4 of Figure 3), thereby alerting the user to presence of the condition of concern (Figure 4). If the patient is older than 60 years, then the “age” condition is highlighted as well. The clinician should click on any highlighted conditions to access further information from the CORD-19 database, as this information is likely to be relevant for the patient in question.
+
+COVID-19 in Patients With Cancer
+
+Cancer has been shown to be a risk factor for COVID-19, and the different types of cancers affect COVID-19 progression differently; therefore, it is important for physicians to understand disease progression if patients with cancer become infected with COVID-19. To help with this, the SMART COVID Navigator accesses Reboot Rx’s Reboot: COVID-Cancer Project data sets in order to display information regarding the impact of COVID-19 and its treat

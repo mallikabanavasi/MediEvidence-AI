@@ -1,0 +1,15 @@
+nd their relationship to COVID-19 is growing at a rapid pace. This application simplifies this by providing summary statistics on the risk factors’ effect on COVID-19 severity and fatality. Although this application currently focuses on COVID-19, it can be a readily available platform for quickly expanding into any potential new diseases that emerge.
+
+Authors' Contributions: JW and GA contributed as cosenior authors.
+
+Conflicts of Interest: RRM serves on Advisory Board for AstraZeneca, Aveo, Bayer, Bristol Myers Squibb, Calithera, Exelixis, Janssen, Merck, Novartis, Pfizer, Sanofi, and Tempus. RRM is a consultant for Dendreon, Myovant, Sorrento Therapeutics, and Vividion. RRM also serves on the molecular tumor board at Caris. None of these items are related to this work. JW is a consultant for Westat, Roche, and Flatiron Health. JW has ownership of HemOnc.org LLC, outside the submitted work.
+
+Abbreviations
+
+API
+
+application programming interface
+
+CMS
+
+Center for Medicare and Medicaid S

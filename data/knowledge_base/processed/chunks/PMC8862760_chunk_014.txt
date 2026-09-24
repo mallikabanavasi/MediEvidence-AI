@@ -1,0 +1,7 @@
+e in the Navigator, the next step is to connect these conditions to risk factors shown to affect COVID-19 progression.
+
+The disease condition list for a Veterans Affairs test patient. This dropdown appears from the patient header.
+
+Accessing Artificial Intelligence–Powered Knowledge Base From the COVID-19 Open Research Dataset
+
+The SMART COVID Navigator collects risk factor information from 2 external data sets, as shown on the right side of Figure 1 and relates it to patient medical conditions. The first data set is the COVID-19 Open Research Dataset (CORD-19), created by the White House and a set of leading research groups such as the Georgetown University’s Center for Security and Emerging Technology and the National Library of Medicine, National Institutes of Health. This resource currently contains over 200,000 scholarly papers related to COVID-19. Researchers apply artificial intelligence techniques to create this knowledge base. CORD-19 sources papers from the World Health Organ

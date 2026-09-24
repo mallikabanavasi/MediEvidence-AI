@@ -1,0 +1,7 @@
+indicating that breast cancer is associated to a lesser degree with COVID-19 fatality than some other cancer tissue types.
+
+For some tissue types, the data available through the Reboot: COVID-Cancer Project do not contain an adequate number of patients to support clinical decisions. For instance, based on the fatality rate of 33% (3/9), it would seem that bone and soft tissue cancer is associated with a high risk of COVID-19 fatality. However, the data contain only 9 patients with bone and soft tissue cancer; therefore, more information is needed to make clinical decisions for patients with COVID-19 and bone and soft tissue cancer. Clinicians can access additional information from the full text of papers from the Navigator to make better decisions about patient treatment.
+
+Outcome statistics for all tissue types.
+
+Tissue type with cancer	Patients (n)	Deaths due to COVID-19 (% fatality), n (%)	 	Bladder/urinary tract	1	0 (0)	 	Bone and soft tissue	9	3 (33)	 	Bowel	5	0 (0)	 	Brain/centra

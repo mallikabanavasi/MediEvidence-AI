@@ -1,0 +1,9 @@
+tissues and find that the probabilities for fatality vary greatly depending on the tissue being examined.
+
+Conclusions
+
+The SMART COVID Navigator allows physicians to predict the fatality and severity of COVID-19 progression given a particular patient’s medical conditions. This can allow physicians to determine how aggressively to treat patients infected with COVID-19 and to prioritize different patients for treatment considering their prior medical conditions.
+
+Introduction
+
+Precision medicine, as defined by the National Institutes of Health’s Precision Medicine Initiative, is “an emerging approach to disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person”. Recent increases in the availability of electronic patient data have facilitated the development of precision medicine. For instance, electronic health records (EHRs) store all information collected in hospitals, such as blood tests, radiographs, diagnos
